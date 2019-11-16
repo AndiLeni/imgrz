@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="plugin" version="3.0" group="system" method="upgrade">
     <name>ImgRZ</name>
-    <version>1.0.0</version>
-    <creationDate>2019-11-10</creationDate>
+    <version>1.0.1</version>
+    <creationDate>2019-11-16</creationDate>
     <license>Custom</license>
     <copyright>Copyright 2019 Andreas Lenhardt. All rights reserved.</copyright>
     <author>Andreas Lenhardt</author>
