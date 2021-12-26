@@ -6,7 +6,6 @@
     <license>Custom</license>
     <copyright>Copyright 2019 Andreas Lenhardt. All rights reserved.</copyright>
     <author>Andreas Lenhardt</author>
-    <authoremail>andi.lenhardt@googlemail.com</authoremail>
     <authorurl>https://lenhardt.eu</authorurl>
     <description>Automatically resizes Images on upload</description>
     <files>
